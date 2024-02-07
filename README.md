@@ -91,3 +91,9 @@ In this kind of tests I will store the snapshots of previous test cases where te
 
 - E2E Test
   - We can test the overall flow just like a real user uses the app to test end to end flow of the app, by adding todos, performing operations and the asserting against that operations if the operations got successfully and vice versa.
+
+### Tests Snapshot
+Wrote 4 tests of input component with 100% coverage
+![image](https://github.com/satyam73/testing-assignment/assets/85296770/2a316edd-7d0b-4bf5-a97f-5723b327ed28)
+> Coverage Screenshot
+
